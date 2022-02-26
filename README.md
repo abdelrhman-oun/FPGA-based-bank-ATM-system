@@ -5,3 +5,8 @@
 - The control unit is connected to card sensor to sense the existence of the card ,scanner to scan the card ID and motor to pull and push the card.
 - The other components are used to help the control unit to perform the other ATM operations.
 ![alt text](https://github.com/abdelrhman-oun/FPGA-based-bank-ATM-system/blob/main/design/block-diagram.jpg?raw=true)
+- The FSM has three main branches branching off from main menu state.
+  1- withdraw branch.
+  2- deposit branch.
+  3- change password branch.
+![alt text](https://github.com/abdelrhman-oun/FPGA-based-bank-ATM-system/blob/main/design/ATM-FSM.jpg?raw=true)
