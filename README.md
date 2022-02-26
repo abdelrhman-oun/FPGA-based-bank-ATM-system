@@ -6,7 +6,7 @@
 - The other components are used to help the control unit to perform the other ATM operations.
 ![alt text](https://github.com/abdelrhman-oun/FPGA-based-bank-ATM-system/blob/main/design/block-diagram.jpg?raw=true)
 - The FSM has three main branches branching off from main menu state:
-  1- withdraw branch.
-  2- deposit branch.
-  3- change password branch.
+  1. withdraw branch.
+  2. deposit branch.
+  3. change password branch.
 ![alt text](https://github.com/abdelrhman-oun/FPGA-based-bank-ATM-system/blob/main/design/FSM_ATM.jpg?raw=true)
